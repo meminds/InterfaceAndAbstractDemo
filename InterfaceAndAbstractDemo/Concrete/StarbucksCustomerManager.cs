@@ -30,10 +30,5 @@ namespace InterfaceAndAbstractDemo.Concrete
             
         }
 
-        private void CheckIfRealPerson(Customer customer)
-        {
-            throw new NotImplementedException();
-        }
-
     }
 }
